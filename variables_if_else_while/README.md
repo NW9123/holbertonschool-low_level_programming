@@ -6,6 +6,7 @@ Introductory C project covering variables, conditions and loops.
 
 - `0-positive_or_negative.c`: assigns a random number to `n` and prints whether it is positive, zero or negative.
 - `1-last_digit.c`: assigns a random number to `n` and prints its last digit and how it compares to 5 and 0.
+- `2-print_alphabet.c`: prints the alphabet in lowercase using `putchar` only.
 
 ## Compilation
 
