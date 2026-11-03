@@ -10,6 +10,7 @@ Introductory C project covering variables, conditions and loops.
 - `3-print_alphabets.c`: prints the alphabet in lowercase, then in uppercase, using `putchar` only.
 - `4-print_alphabt.c`: prints the lowercase alphabet except `q` and `e`, using `putchar` only.
 - `5-print_numbers.c`: prints all single digit numbers of base 10 starting from 0.
+- `6-print_numberz.c`: prints all single digit numbers of base 10 starting from 0, using `putchar` only and no `char` variable.
 
 ## Compilation
 
