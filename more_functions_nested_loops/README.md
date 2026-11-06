@@ -13,6 +13,7 @@ Introductory C project covering more functions and nested loops.
 - `6-print_line.c`: `print_line` draws a straight line of `n` underscores in the terminal, followed by a new line.
 - `7-print_diagonal.c`: `print_diagonal` draws a diagonal line of `n` backslashes on the terminal.
 - `8-print_square.c`: `print_square` prints a square of `#` characters, followed by a new line.
+- `10-print_triangle.c`: `print_triangle` prints a triangle of `#` characters, followed by a new line.
 
 ## Compilation
 
