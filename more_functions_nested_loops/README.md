@@ -11,6 +11,8 @@ Introductory C project covering more functions and nested loops.
 - `4-print_most_numbers.c`: `print_most_numbers` prints the numbers from `0` to `9`, except `2` and `4`, followed by a new line.
 - `5-more_numbers.c`: `more_numbers` prints 10 times the numbers from `0` to `14`, followed by a new line.
 - `6-print_line.c`: `print_line` draws a straight line of `n` underscores in the terminal, followed by a new line.
+- `7-print_diagonal.c`: `print_diagonal` draws a diagonal line of `n` backslashes on the terminal.
+- `8-print_square.c`: `print_square` prints a square of `#` characters, followed by a new line.
 
 ## Compilation
 
